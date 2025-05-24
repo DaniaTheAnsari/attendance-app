@@ -24,7 +24,7 @@ export default function Attendance() {
 
   return (
     <main style={{ padding: '2rem' }}>
-      <h2 style={{ marginBottom: '1rem' }}>Today's Attendance of class</h2>
+      <h2 style={{ marginBottom: '1rem' }}>Today's Attendance</h2>
       <ul style={{ listStyle: 'none', padding: 0 }}>
         {students.map((student, index) => (
           <li key={index} style={{
