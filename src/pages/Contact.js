@@ -29,7 +29,7 @@ export default function Contact() {
         </li>
         <li>
           <a href="https://www.facebook.com/daniatheansari" target="_blank" rel="noopener noreferrer">
-            Instagram
+            facebook
           </a>
         </li>
       </ul>
